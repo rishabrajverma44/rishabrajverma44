@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Type-script**
 
-- 💬 Ask me about **react-js,Node**
+- 💬 Ask me about **WEB-DEVELPMENT**
 
 - 📫 How to reach me **rishavrajverma44@gmail.com**
 
