@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RISHAB RAJ VERMA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Indev Consultancy Pvt. Ltd**
+- 🔭 I’m currently working on **MindFire Software Solution**
 
 - 🌱 I’m currently learning **Type-script**
 
